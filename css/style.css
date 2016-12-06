@@ -1,0 +1,40 @@
+body{
+   
+    
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.header{
+    background-color: #f64df1;
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    position: fixed;
+    
+    left: 0;
+    top: 0;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
+nav{
+    z-index: 2;
+        
+    
+}
+    
+
+footer{
+    position: fixed;
+    background-color: #f64df1;
+    bottom: 0px;
+    width: 100%;
+    height: 30px;
+    left: 0px;
+    border-top-left-radius: 28px;
+    border-top-right-radius: 28px;
+}
+    
